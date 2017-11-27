@@ -1,0 +1,5 @@
+H:\Visual Basic 2008 - PROJECTS C#\LiftSimulator-v.Timer\FormLiftSimulator\Controller\obj\Debug\ResolveAssemblyReference.cache
+H:\Visual Basic 2008 - PROJECTS C#\LiftSimulator-v.Timer\FormLiftSimulator\Controller\bin\Debug\Controller.dll
+H:\Visual Basic 2008 - PROJECTS C#\LiftSimulator-v.Timer\FormLiftSimulator\Controller\bin\Debug\Controller.pdb
+H:\Visual Basic 2008 - PROJECTS C#\LiftSimulator-v.Timer\FormLiftSimulator\Controller\obj\Debug\Controller.dll
+H:\Visual Basic 2008 - PROJECTS C#\LiftSimulator-v.Timer\FormLiftSimulator\Controller\obj\Debug\Controller.pdb

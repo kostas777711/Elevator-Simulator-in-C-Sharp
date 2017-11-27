@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormLiftSimulator", "FormLiftSimulator\FormLiftSimulator.csproj", "{0E6BF65E-D822-4A56-9785-A30BD4167B64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controller1", "Controller\Controller1.csproj", "{BAD36EEE-EC61-4ED4-945C-F82EBD1659FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generator", "Generator\Generator.csproj", "{D0A6F3B2-B077-4DA7-81ED-953EE93D699D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E6BF65E-D822-4A56-9785-A30BD4167B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E6BF65E-D822-4A56-9785-A30BD4167B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E6BF65E-D822-4A56-9785-A30BD4167B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E6BF65E-D822-4A56-9785-A30BD4167B64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAD36EEE-EC61-4ED4-945C-F82EBD1659FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD36EEE-EC61-4ED4-945C-F82EBD1659FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD36EEE-EC61-4ED4-945C-F82EBD1659FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD36EEE-EC61-4ED4-945C-F82EBD1659FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0A6F3B2-B077-4DA7-81ED-953EE93D699D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A6F3B2-B077-4DA7-81ED-953EE93D699D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A6F3B2-B077-4DA7-81ED-953EE93D699D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A6F3B2-B077-4DA7-81ED-953EE93D699D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
